@@ -1,3 +1,12 @@
+/*
+* ------------------------------------------------------------
+* IMPORTANT: The contents of this file are auto-generated.
+*
+* This file may be updated by the Shopify admin theme editor
+* or related systems. Please exercise caution as any changes
+* made to this file may be overwritten.
+* ------------------------------------------------------------
+*/
 {
   "current": {
     "checkout_logo_image": "shopify:\/\/shop_images\/ss-logo-full-4-white-bg-horizontal-lg_273e59b3-4219-4d94-88c2-5f9efde49161.png",
@@ -188,12 +197,6 @@
 
     ],
     "blocks": {
-      "7570552984445421165": {
-        "type": "shopify:\/\/apps\/yotpo-product-reviews-photos\/blocks\/settings\/eb7dfd7d-db44-4334-bc49-c893b51b36cf",
-        "disabled": false,
-        "settings": {
-        }
-      },
       "855628211100114053": {
         "type": "shopify:\/\/apps\/klaviyo-email-marketing-sms\/blocks\/klaviyo-onsite-embed\/2632fe16-c075-4321-a88b-50b567f42507",
         "disabled": false,
@@ -205,18 +208,6 @@
         "disabled": false,
         "settings": {
           "show_preview_data": true
-        }
-      },
-      "5140161176031010482": {
-        "type": "shopify:\/\/apps\/all-in-1-shipping-on-cart\/blocks\/instant-load\/6fdcf202-26c0-4288-be36-8b389f5d262c",
-        "disabled": false,
-        "settings": {
-        }
-      },
-      "17327048248777170309": {
-        "type": "shopify:\/\/apps\/all-in-1-discount-on-cart\/blocks\/instant-load\/f428e1ae-8a34-4767-8189-f8339f3ab12b",
-        "disabled": false,
-        "settings": {
         }
       }
     }
